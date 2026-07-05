@@ -6,34 +6,11 @@
 
 <br />
 
-##### Introduce in Javascript Mode
-
-<img src="https://avatars.githubusercontent.com/u/64436550?v=4" align="left" style="width: 50px; height: 50px; border-radius: 50%;" alt="Fredo's Avatar" />
-
-```javascript
-let me {
-    fullname: "Wilfredo Alexander Sutanto",
-    username: "fredovz",
-    pronouns: "He / Him",
-    programming: {
-        languages: ["HTML", "CSS", "JavaScript", "TypeScript", "PHP"],
-        backend: ["PHP", "NextJS", "Postman API"],
-        frontend: ["HTML", "CSS", "React", "Vue", "PHP"],
-        framework: ["NextJS", "Codeigniter", "Yii", "Laravel"],
-        ui: ["Tailwind CSS", "Shadcn/ui", "Bootstrap", "SB Admin"],
-        database: ["MySQL", "Firebase", "Supabase"],
-        devOps: ["Git", "Apache", "Nginx", "Vercel"],
-    }
-}
-```
-
-<br />
-
 ##### 🌐 Socials:
 
 <p align="left">
     <a href"https://instagram.com/fredovz" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"  />
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href"https://linkedin.com/in/wilfredo-alexander-sutanto-1ab624227/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -69,6 +46,31 @@ let me {
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
 </p>
+
+<br />
+
+##### Introduce me in Javascript Mode
+
+<img src="https://avatars.githubusercontent.com/u/64436550?v=4" align="left" style="width: 50px; height: 50px; border-radius: 50%;" alt="Fredo's Avatar" />
+
+```javascript
+let me {
+    fullname: "Wilfredo Alexander Sutanto",
+    username: "fredovz",
+    pronouns: "He / Him",
+    programming: {
+        languages: ["HTML", "CSS", "JavaScript", "TypeScript", "PHP"],
+        backend: ["PHP", "NextJS", "Postman API"],
+        frontend: ["HTML", "CSS", "React", "Vue", "PHP"],
+        framework: ["NextJS", "Codeigniter", "Yii", "Laravel"],
+        ui: ["Tailwind CSS", "Shadcn/ui", "Bootstrap", "SB Admin"],
+        database: ["MySQL", "Firebase", "Supabase"],
+        devOps: ["Git", "Apache", "Nginx", "Vercel"],
+    }
+}
+```
+
+<br />
 
 ##### 📊 GitHub Stats:
 
