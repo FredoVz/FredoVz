@@ -63,9 +63,7 @@ Here are some ideas to get you started:
 
 ##### My Github Stats
 
-<!--
-[![Fredo's Github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![Fredo's Github stats](https://github-stats-extended.vercel.app/api?username=FredoVz)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 [good morning](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2MTB6c3gwNmlvNG1lYjJiN2V2djQxbzBiZW4xeGphdWpqY2hmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h2ZVjT3kt193cxnwm1/giphy.gif)
