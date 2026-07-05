@@ -4,6 +4,31 @@
 
 ### Hello World! I'm Wilfredo Alexander Sutanto 👋
 
+<br />
+
+##### Introduce in Javascript Mode
+
+<img src="https://avatars.githubusercontent.com/u/64436550?v=4" align="left" style="width: 50px; height: 50px; border-radius: 50%;" alt="Fredo's Avatar" />
+
+```javascript
+let me {
+    fullname: "Wilfredo Alexander Sutanto",
+    username: "fredovz",
+    pronouns: "He / Him",
+    programming: {
+        languages: ["HTML", "CSS", "JavaScript", "TypeScript", "PHP"],
+        backend: ["PHP", "NextJS", "Postman API"],
+        frontend: ["HTML", "CSS", "React", "Vue", "PHP"],
+        framework: ["NextJS", "Codeigniter", "Yii", "Laravel"],
+        ui: ["Tailwind CSS", "Shadcn/ui", "Bootstrap", "SB Admin"],
+        database: ["MySQL", "Firebase", "Supabase"],
+        devOps: ["Git", "Apache", "Nginx", "Vercel"],
+    }
+}
+```
+
+<br />
+
 ##### 🌐 Socials:
 
 <p align="left">
@@ -12,6 +37,9 @@
     </a>
     <a href"https://linkedin.com/in/wilfredo-alexander-sutanto-1ab624227/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href"mailto:dm.fredo018@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/GMail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail" />
     </a>
 </p>
 
@@ -47,6 +75,10 @@
 ![](https://github-readme-stats.shion.dev/api?username=FredoVz&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=FredoVz&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=FredoVz&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+##### GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FredoVz&bg_color=0D1117&color=E7CFAA&line=E7CFAA&point=E7CFAA&area_color=E7CFAA&area=true&hide_border=true&custom_title=%20&theme=transparent" width="850" height="300" alt="Contribution Constellation"/>
 
 ##### 🏆 GitHub Trophies
 
