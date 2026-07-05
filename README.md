@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Wilfredo Alexander Sutanto 👋
+
+![Wilfredo Alexander Sutanto](./img/github-header-1.png)
 
 <!--
 **FredoVz/FredoVz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning [**Next Js**](https://nextjs.org/) Framework and [**Vite Dev**](https://vite.dev/guide/) Build Tool for [**React Js**](https://react.dev/)
+- ❤️❤️❤️❤️
+
+![good morning](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2MTB6c3gwNmlvNG1lYjJiN2V2djQxbzBiZW4xeGphdWpqY2hmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h2ZVjT3kt193cxnwm1/giphy.gif)
