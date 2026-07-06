@@ -20,7 +20,7 @@
     </a>
 </p>
 
-##### Switch English to Indonesian Languages
+##### Switch English Language or Indonesian Language
 
 <div align="center" justify-content="space-between">
   <a href="./README-ID.md"><img src="https://img.shields.io/badge/README-ID-blue?color=E7CFAA&labelColor=0D1117&style=for-the-badge"></a>
