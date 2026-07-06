@@ -2,11 +2,11 @@
 
 <!-- ### 💫 About Me: -->
 
-### Hello World! I'm Wilfredo Alexander Sutanto 👋
+### Halo Dunia! Saya Wilfredo Alexander Sutanto 👋
 
 <br />
 
-##### 🌐 Socials:
+##### 🌐 Sosial Media:
 
 <p align="left">
     <a href"https://instagram.com/fredovz">
@@ -20,14 +20,14 @@
     </a>
 </p>
 
-##### Switch English to Indonesian Languages
+##### Ganti Bahasa Indonesia ke Bahasa Inggris
 
 <div align="center" justify-content="space-between">
   <a href="./README-ID.md"><img src="https://img.shields.io/badge/README-ID-blue?color=E7CFAA&labelColor=0D1117&style=for-the-badge"></a>
 	<a href="./README.md"><img src="https://img.shields.io/badge/README-ENG-blue?color=E7CFAA&labelColor=E7CFAA&style=for-the-badge"></a>
 </div>
 
-##### 💻 Tech Stack:
+##### 💻 Teknologi yang digunakan:
 
 <p align="left">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -56,22 +56,22 @@
 
 <br />
 
-##### Introduce me in Javascript Mode
+##### Perkenalan saya dengan menggunakan bahasa pemrograman Javascript
 
 <img src="https://avatars.githubusercontent.com/u/64436550?v=4" align="left" style="width: 50px; height: 50px; border-radius: 50%;" alt="Fredo's Avatar" />
 
 ```javascript
 let me {
-    fullname: "Wilfredo Alexander Sutanto",
+    namalengkap: "Wilfredo Alexander Sutanto",
     username: "fredovz",
-    pronouns: "He / Him",
+    kataganti: "Bapak / Kakak / Koko",
     programming: {
-        languages: ["HTML", "CSS", "JavaScript", "TypeScript", "PHP"],
+        bahasapemrograman: ["HTML", "CSS", "JavaScript", "TypeScript", "PHP"],
         backend: ["PHP", "NextJS", "Postman API"],
         frontend: ["HTML", "CSS", "React", "Vue", "PHP"],
         framework: ["NextJS", "Codeigniter", "Yii", "Laravel"],
         ui: ["Tailwind CSS", "Shadcn/ui", "Bootstrap", "SB Admin"],
-        database: ["MySQL", "Firebase", "Supabase"],
+        basisdata: ["MySQL", "Firebase", "Supabase"],
         devOps: ["Git", "Apache", "Nginx", "Vercel"],
     }
 }
@@ -79,21 +79,21 @@ let me {
 
 <br />
 
-##### 📊 GitHub Stats:
+##### 📊 Statistik GitHub:
 
 ![](https://github-readme-stats.shion.dev/api?username=FredoVz&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=FredoVz&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=FredoVz&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-##### GitHub Activity Graph
+##### Grafik Aktivitas GitHub
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FredoVz&bg_color=0D1117&color=E7CFAA&line=E7CFAA&point=E7CFAA&area_color=E7CFAA&area=true&hide_border=true&custom_title=%20&theme=transparent" width="850" height="300" alt="Contribution Constellation"/>
 
-##### 🏆 GitHub Trophies
+##### 🏆 Piala / Penghargaan dari GitHub
 
 ![](https://github-profile-trophy.vercel.app/?username=FredoVz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-##### 🔝 Top Contributed Repo
+##### 🔝 Repositori dengan Kontribusi Teratas
 
 ![](https://github-contributor-stats.vercel.app/api?username=FredoVz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -103,7 +103,7 @@ let me {
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h2 align="left">Play games with me</h2>
+<h2 align="left">Ayo bermain games denganku</h2>
 
 ###
 
