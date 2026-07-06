@@ -8,17 +8,16 @@
 
 ##### 🌐 Sosial Media:
 
-<img src="https://komarev.com/ghpvc/?username=FredoVz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=FredoVz&label=Jumlah%20views&color=0e75b6&style=flat" alt="Jumlah views" />
 
 <p align="left">
-    <a href"https://instagram.com/fredovz">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+    <a href="https://instagram.com/fredovz">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href"https://linkedin.com/in/wilfredo-alexander-sutanto-1ab624227/">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://linkedin.com/in/wilfredo-alexander-sutanto-1ab624227/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href"mailto:dm.fredo018@gmail.com">
+    <a href="mailto:dm.fredo018@gmail.com">
         <img src="https://img.shields.io/badge/GMail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail" />
     </a>
 </p>
