@@ -84,7 +84,7 @@ let me {
 ##### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=FredoVz&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=FredoVz&theme=gruvbox&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FredoVz&theme=gruvbox&hide_border=false)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=FredoVz&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ##### GitHub Activity Graph
